@@ -1,0 +1,4 @@
+1. Python3 ve sonraki sürümler...
+2. pip yükleyin: https://pip.pypa.io/en/stable/installation/
+3. Pillow yükleyin: https://pillow.readthedocs.io/en/stable/installation.html
+4. Test1 adında bir görüntünün olması gerektiğini unutmayın. 'test1.jpg'
